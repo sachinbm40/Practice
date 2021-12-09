@@ -1,4 +1,5 @@
 #!/bin/bash
+# palindrom or not script
 echo "enter the string"
 read str
 rvs=` echo $str | rev`
