@@ -1,3 +1,4 @@
+#test featch
 #!/bin/bash
 # palindrom or not script
 echo "enter the string"
